@@ -1,0 +1,10 @@
+#include <stdio.h>
+void main()
+{
+printf("Hello world");
+int a, b , s;
+printf("Enter two numbers");
+scanf("%d%d",&a,&b);
+s=a+b;
+printf("%d",s);
+}
